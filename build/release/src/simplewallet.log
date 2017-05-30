@@ -1,0 +1,59 @@
+2017-May-28 11:24:07.543488 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:24:07.549101 ERROR [simplewallet] Wallet initialize failed: wallet file '~/wallet.wallet' is not found
+2017-May-28 11:24:22.928452 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:24:22.929365 ERROR [simplewallet] Wallet initialize failed: wallet file '~/wallet.wallet' is not found
+2017-May-28 11:24:32.543236 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:24:32.544811 INFO [simplewallet] Loading wallet...
+2017-May-28 11:24:32.674661 ERROR [simplewallet] Wallet initialize failed: can't load wallet file '/home/stomeo-gmbh/wallet.wallet', check password
+2017-May-28 11:24:57.818449 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:25:07.516548 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:7610).
+2017-May-28 11:25:07.641340 INFO [simplewallet] Generated new wallet: RvYuf2k153961UmCSx3Bo71cFU9ACx4FBHkjR9szWSFHj3t5iFdhcM44wCrbWNLzxPLwHBSFgeiXmHawJxGtionZ1Gsw6RC5d
+2017-May-28 11:25:07.641340 INFO [simplewallet] view key: 1fa08985f264768243c3b0d48dc416b49522f8b78cbb96d6dbb2b3834bb0c707
+2017-May-28 11:25:07.641786 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-May-28 11:25:17.828861 INFO [simplewallet] Wallet closed
+2017-May-28 11:25:46.898770 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:25:46.901012 INFO [simplewallet] Loading wallet...
+2017-May-28 11:25:47.017724 ERROR [simplewallet] Wallet initialize failed: can't load wallet file '/home/stomeo-gmbh/wallet.wallet', check password
+2017-May-28 11:25:56.258964 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:26:04.164440 ERROR [simplewallet] Error: wallet.bin.wallet already exists
+2017-May-28 11:26:04.164723 ERROR [simplewallet] Failed to initialize wallet
+2017-May-28 11:26:10.270476 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:26:18.543252 INFO [simplewallet] Loading wallet...
+2017-May-28 11:26:18.659509 INFO [simplewallet] Opened wallet: RvYuf2k153961UmCSx3Bo71cFU9ACx4FBHkjR9szWSFHj3t5iFdhcM44wCrbWNLzxPLwHBSFgeiXmHawJxGtionZ1Gsw6RC5d
+2017-May-28 11:26:18.659906 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-May-28 11:26:23.206933 INFO [simplewallet] Wallet closed
+2017-May-28 11:26:40.123787 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:26:40.125322 INFO [simplewallet] Loading wallet...
+2017-May-28 11:26:40.244864 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-May-28 11:26:40.245064 INFO [simplewallet] Loaded ok
+2017-May-28 11:26:40.245186 INFO [simplewallet] Starting wallet rpc server
+2017-May-28 11:26:57.650389 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60426
+2017-May-28 11:27:48.081742 DEBUG [HttpServer] Closing connection from 127.0.0.1:60426 total=1
+2017-May-28 11:27:48.082654 INFO [simplewallet] Stopped wallet rpc server
+2017-May-28 11:27:48.082861 INFO [simplewallet] Storing wallet...
+2017-May-28 11:27:48.204483 INFO [simplewallet] Stored ok
+2017-May-28 11:28:02.326709 INFO [simplewallet] recoin wallet v1.1.1.1()
+2017-May-28 11:28:02.328394 INFO [simplewallet] Loading wallet...
+2017-May-28 11:28:02.451559 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2017-May-28 11:28:02.451730 INFO [simplewallet] Loaded ok
+2017-May-28 11:28:02.451836 INFO [simplewallet] Starting wallet rpc server
+2017-May-28 11:28:23.144938 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60490
+2017-May-28 11:28:23.145744 DEBUG [HttpServer] Closing connection from 127.0.0.1:60490 total=1
+2017-May-28 11:28:30.137434 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60494
+2017-May-28 11:28:30.138276 DEBUG [HttpServer] Closing connection from 127.0.0.1:60494 total=1
+2017-May-28 11:28:32.822769 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60502
+2017-May-28 11:28:32.823615 DEBUG [HttpServer] Closing connection from 127.0.0.1:60502 total=1
+2017-May-28 11:28:44.326297 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60510
+2017-May-28 11:28:44.327333 DEBUG [HttpServer] Closing connection from 127.0.0.1:60510 total=1
+2017-May-28 11:28:57.925578 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60516
+2017-May-28 11:28:57.927200 DEBUG [HttpServer] Closing connection from 127.0.0.1:60516 total=1
+2017-May-28 11:29:19.598098 DEBUG [HttpServer] Incoming connection from 127.0.0.1:60526
+2017-May-28 11:29:19.599208 DEBUG [HttpServer] Closing connection from 127.0.0.1:60526 total=1
