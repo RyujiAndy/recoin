@@ -18,7 +18,7 @@ To build, change to a directory where this file is located, and run `make`. The 
 
 **For ubuntu 16.04 or later and Debian jessie or later:**
 
-* Just run the script bash `wget https://github.com/ReCoin-i2cttl/recoin/releases/download/stable_1/recoind_compile_deb.sh && chmod +x recoind_compile_deb.sh && ./recoind_compile_deb.sh`
+* Just run the script bash `wget https://github.com/ReCoin-i2cttl/recoin/releases/download/stable_1/recoin-compiler_deb.sh && chmod +x recoind_compiler_deb.sh && ./recoind_compiler_deb.sh`
 
 ### On Windows
 Dependencies: MSVC 2013 or later, CMake 2.8.6 or later, and Boost 1.55. You may download them from:
